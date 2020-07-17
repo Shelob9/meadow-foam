@@ -2,7 +2,7 @@
 
 👋 Josh experimenting with [Foam](https://foambubble.github.io/foam/) for notes.
 
-[[web-dev-how-tos]]
+[[how-to]]
 
 ## Using Foam
 
