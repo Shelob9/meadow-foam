@@ -2,20 +2,20 @@
 
 ## What Are They
 
-### Pure Functions
-
 A "pure" function is one that, given perdicatable inputs will produce perdictable outputs with no side effects. For example:
 
+## Examples
+
 ```js
-function add(firstNumber,secondNumber){
-    return firstNumber + secondNumber;
+function add(firstNumber, secondNumber) {
+	return firstNumber + secondNumber;
 }
 ```
 
 This function adds two numbers, and does nothing out side of its closure. It is pure. It has no side effects. It is very predictable. I can test it like this:
 
 ```js
-it( 'Sums', () => expect(add(1,2).toBe(3) ) );
+it("Sums", () => expect(add(1, 2).toBe(3)));
 ```
 
 ### Side Effects
@@ -23,11 +23,13 @@ it( 'Sums', () => expect(add(1,2).toBe(3) ) );
 This function, adds two numbers and then uses jQuery to set the inner HTML of an element to the sum of the two numbers:
 
 ```js
-function addAndDisplay(firstNumber,secondNumber){
-    const sum = firstNumber + secondNumber;
-    jQuery( '#sum' ).html( sum );
+function addAndDisplay(firstNumber, secondNumber) {
+	const sum = firstNumber + secondNumber;
+	jQuery("#sum").html(sum);
 }
 ```
+
+This function is NOT pure, beacuse it has a side effect.
 
 The DOM modification is a side effect, it happens outside of the scope of this closure and effects other things. This would be less straight forward to test, do to the side effects.
 
@@ -72,6 +74,6 @@ WordPress has very weak encapsulation. For example, consider this:
 function saveNewItem($title){
     wp_insert_post(['post_title'=> $title]);
 }
-``` 
-This looks simple, but wp_inser_post has filters in it which can change the functions behaviour. In addition, a MySQL database is involved.
+```
 
+This looks simple, but wp_insert_post has filters in it which can change the functions behaviour. In addition, a MySQL database is involved.
