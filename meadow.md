@@ -22,6 +22,15 @@ Networked second mind app.
 - Deployed on [Render](https://render.com)
 - VueJS front-end
 
+After trying for awhile to overengieer this app using Node on the backend, I decided to simplify things. I am using Laravel for CRUD, REST API and authentication.
+
+Laravel and VueJS also gave me a fast way to prototype UI, and think about how this app could work. 
+
+Currently what is deployed is an API for two data types and that basic UI. The app is installable -- I used Laravel PWA and a custom [[service-workers]] I wrote. The service worker does provide basic caching, but it's primary purpose is native share withe share API. 
+
+
+
+
 ## Halloween
 
 > [Source](https://github.com/shelob9/meadow-halloween)
