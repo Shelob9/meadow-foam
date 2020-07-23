@@ -1,5 +1,7 @@
 # Next.js
 
+A [[react.md]] [[static-stite-generator]]
+
 ## Window undefined
 
 https://nextjs.org/docs/advanced-features/dynamic-import#with-no-ssr
