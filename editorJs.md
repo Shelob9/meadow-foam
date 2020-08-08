@@ -1,4 +1,5 @@
 # Editor.js
+edit
 
 Block-based editor.
 
