@@ -2,6 +2,30 @@
 
 A [[react: React]] [[static-stite-generator : Static Site Generator]]
 
+## Adding Testing With Jest
+
+> See [[gh-actions-vercel.md]]
+
+- [Setup Jest](https://medium.com/frontend-digest/setting-up-testing-library-with-nextjs-a9702cbde32d)
+- [If using CSS Modules, mock CSS modules](https://jestjs.io/docs/en/webpack#mocking-css-modules)
+- If using fetch add polyfill to setupTests.js
+  - `import "cross-fetch/polyfill";`
+- Add Github Action:
+
+```yml
+name: CI
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install
+        run: yarn
+      - name: Run tests
+        run: yarn test --ci
+```
+
 ## Window undefined
 
 https://nextjs.org/docs/advanced-features/dynamic-import#with-no-ssr
