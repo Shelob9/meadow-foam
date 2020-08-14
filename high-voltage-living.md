@@ -87,3 +87,7 @@ Too often we mistake the map for the territory. Easy to fall into a trap where e
 Say "should" not a command, it's an invitation.
 
 Don't think everything on Earth is already discovered. You can always explore your feelings and depths of self consiouss. Below the conscious dwelling, are weird things below. Normal life is the mainstream sect of magic.
+
+http://webseitz.fluxent.com/wiki/SocialFiction
+
+It's hard to care about health in the abstract. But in context, do things to allow you to do something, and that unlocks experience. Need to stay hydrated for recording videos, leads to other health effects.
