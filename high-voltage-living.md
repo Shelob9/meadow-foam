@@ -97,3 +97,4 @@ It's hard to care about health in the abstract. But in context, do things to all
 - Optimize for excitement.
   - Happiness is contextual, you can't be be happy all the time. Trying to behappy all the time prevents growth.
   - Be navigated by what is exciting.
+  - Feelings and emotions are best understood socially.
