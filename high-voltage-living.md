@@ -91,3 +91,9 @@ Don't think everything on Earth is already discovered. You can always explore yo
 http://webseitz.fluxent.com/wiki/SocialFiction
 
 It's hard to care about health in the abstract. But in context, do things to allow you to do something, and that unlocks experience. Need to stay hydrated for recording videos, leads to other health effects.
+
+- Take twenty minutes a day to bootstrap your best life.
+- Play with the joke that existance is playing with us.
+- Optimize for excitement.
+  - Happiness is contextual, you can't be be happy all the time. Trying to behappy all the time prevents growth.
+  - Be navigated by what is exciting.
