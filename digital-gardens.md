@@ -6,8 +6,7 @@ I use this site as a digital garden/ second brain.
 
 Themes for [[gatsby]].
 
-- [Theme Garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/)
-- [Theme Brain](https://github.com/aengusmcmillin/gatsby-theme-brain)
+-  
   - Case insentive double brackets
   - Aliases in frontmatter
 - [Theme Andy](https://github.com/aravindballa/gatsby-theme-andy)
