@@ -1,7 +1,5 @@
 # Inbox
 
-Colours and magic. Started therapy. Looking for emotional authenticity and expression. Learned to use masks as a tool to navigate the world. Discovering that these masks have take over me, so that I’m not aware what’s the real me anymore. There’s a bit in there that can be authentically express that can be hidden away. Easy to get stuck in a groove with work or relationships or anything. Takes constant awareness to push out of comfort zone and increasing the voltage. Challenging this by doing activities, but they tend to be organised, like acting classes. Good but it creates a safe zone, then you go back to your normal life. How to bring that stuff into everyday life
-
 - Here you can write disorganised notes to be categorised later
 - Bullet points are useful, but it could be free form text as well
 - Sometimes it's better to just get things off your mind quickly, rather than stop to think where it belongs
