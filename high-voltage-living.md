@@ -37,3 +37,17 @@ Sensitivity is very powerful, easily burned out by mishandling inputs. Sensitivi
 You want to be high voltage in yourself, but not burn others in the process. Need to give other people space.
 
 Congrence: Having the self-esteem to act in the way demanded by the situation. Appearing on the outside the same way you feel inside.
+
+## Resistance
+
+Feeling resistance to getting work done is hard. Could push, watch motivational videos, etc.
+
+Inspect element on resistance.
+
+Challenge is to ask with curiosity and ask self, "what's up? You said you wanted to do X, why are you not doing it?" Answer honestly. Often times the parts of the process are not explicit, or it's too big. Why am I in agony about not doing the thing I want to do and know I can do?
+
+'hitting inspect element on the resistance' - love this phrase!
+
+The book The War of Art is required reading. Has pages on resistance to doing your best work. Has a fascinating way of personifying resistance and presenting it as a kind of archetypal force. Personification to bring abstract problems into more intuitive realm.
+
+You can choose an object in your house, and with siencrity and give it special value and purpose, if you belive in it.
