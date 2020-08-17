@@ -6,6 +6,34 @@ How to increase your volatage?
 
 How to create Voltage internally, not relying on external environment.
 
+## TL;DR
+
+### Conculsions
+
+- Take twenty minutes a day to bootstrap your best life.
+- Play with the joke that existance is playing with us.
+- Optimize for excitement.
+  - Happiness is contextual, you can't be be happy all the time. Trying to behappy all the time prevents growth.
+  - Be navigated by what is exciting.
+  - Feelings and emotions are best understood socially.
+
+### Key Notes
+
+- Your body is a set of connected springs.
+- Hyper-empathy becomes apathy as a coping mechanism.
+- Takes constant awareness to push out of comfort zone and increasing the voltage.
+- There are friends and there are serious friends.
+- What does it mean to be sensative?
+  - Sensitivity is about bringing in inputs.
+  - Smarts is about processing
+  - Strength is the ability to execute on what you have processed.
+- You will suffer for a time, not being able to move as fast as others, not learning how others learn.
+  - Harness this by learning basic principles of relationships and find the patterns in all things.
+- Mystery solving is where the magic is.
+- **I want to go on a walking vacation**.
+  Build associations with a topic by thinking about someone I know, who cares about the topic.
+- Say "should" not as a command: it is an invitation.
+
 ## Observations From Intros
 
 "Like is more boring then it used to be, how to make it intresting again?"
@@ -84,7 +112,7 @@ Sprituality: A surrender to a sense to something greater then yourself within yo
 
 Too often we mistake the map for the territory. Easy to fall into a trap where everything you've seen and heard is everything there is. Reality is more hetrogenous than we would like. When COVID is over, you can walk out of your house and walk futher then you have ever been and see something you have not seen.
 
-Say "should" not a command, it's an invitation.
+Say "should" not as a command: it is an invitation.
 
 Don't think everything on Earth is already discovered. You can always explore your feelings and depths of self consiouss. Below the conscious dwelling, are weird things below. Normal life is the mainstream sect of magic.
 
