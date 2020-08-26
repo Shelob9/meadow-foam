@@ -74,29 +74,38 @@ module.exports = withMDX({
 - [NextJS + Tailwind Example](https://github.com/tailwindlabs/tailwindcss-setup-examples/blob/master/examples/nextjs)
 
 1. `yarn add tailwindcss postcss-import autoprefixer @fullhuman/postcss-purgecss`
-2. [These steps](https://github.com/tailwindlabs/tailwindcss-setup-examples/blob/master/examples/nextjs/README.md#nextjs)
-3. postcss.config.js
+2. postcss.config.js
 
 ```js
-const purgecss = [
-	"@fullhuman/postcss-purgecss",
-	{
-		content: [
-			"./components/**/*.js",
-			"./pages/**/*.js",
-			"./components/**/*.tsx",
-			"./pages/**/*.tsx",
-		],
-		defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
-	},
-];
 module.exports = {
-	plugins: [
-		"postcss-import",
-		"tailwindcss",
-		"autoprefixer",
-		...(process.env.NODE_ENV === "production" ? [purgecss] : []),
-	],
+	plugins: ["tailwindcss", "autoprefixer"],
+};
+```
+
+3. tailwind.config.js
+
+```js
+module.exports = {
+	theme: {
+		extend: {},
+	},
+	variants: {},
+	plugins: [],
+	future: {
+		removeDeprecatedGapUtilities: true,
+	},
+	purge: {
+		mode: "all",
+		content: [
+			"pages/**/*.js",
+			"pages/**/*.tsx",
+			"components/**/*.js",
+			"components/**/*.tsx",
+		],
+		options: {
+			keyframes: true,
+		},
+	},
 };
 ```
 
