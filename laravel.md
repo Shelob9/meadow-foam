@@ -16,6 +16,8 @@
 
 ## Laravel Links
 
+- [Cron With Lando](https://dev.to/jcandan/cron-with-lando-4lnh)
+
 ### Google Sheets
 
 - [CONNECTING LARAVEL TO A GOOGLE SHEET](https://drivemarketing.ca/en/blog/connecting-laravel-to-a-google-sheet/) Walk through.
