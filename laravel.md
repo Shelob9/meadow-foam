@@ -21,3 +21,13 @@
 ### Google Sheets
 
 - [CONNECTING LARAVEL TO A GOOGLE SHEET](https://drivemarketing.ca/en/blog/connecting-laravel-to-a-google-sheet/) Walk through.
+
+## Package Development
+
+- https://mattstauffer.com/blog/how-to-build-and-autoload-your-own-php-package-locally/
+
+## Vapor
+
+- https://stefanbauer.me/articles/an-101-introduction-to-laravel-vapor
+- https://mattstauffer.com/blog/introducing-laravel-vapor/
+- https://www.2hatslogic.com/blog/deploy-web-app-laravel-vapor/

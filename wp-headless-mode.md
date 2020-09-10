@@ -41,7 +41,8 @@ As an add-on to the Headless Mode plugin, use Cloudflare workers to:
 - IAM permission managment for full CRUD API.
 - Git-baked, forkable WordPress sites.
   - When editting, create basic MySQL DB, but proxy REST API in WordPress to [[markdown-api]]. All content is written to Git repo.
-  - Create UI for forking posts, revission visualization, suggesting edits, and listing contributors.
+  - Create UI for forking posts, revision visualization, suggesting edits, and listing contributors.
+  - [Gatsby Gutenberg](https://gatsbywpgutenberg.netlify.app/)
 
 ### No Code Static Site Builder
 

@@ -4,6 +4,8 @@ Networked second mind(s) app.
 
 ## Why
 
+When I share my words about something on a social media platform, on a tool I use at work, they are still my words. Also, they are the creation of so many people and systems that are beyond me. When I see people saying web3 should allow us to own the product of our own labor, I agree. I don't think this means monetizing ourseleves at a Fortnite-like level, as I don't want to optimize myself for the kind of engagment that leads to whatever the tokenized version of lots of in-app purchases. But I do want what I learn about what I do for a living and other things I enjoy thingking about, resarching an practicing to be accesible to me and others, especially those who contributed to my understanding of the subject.
+
 ## Main Features For v1
 
 - Clippings: Link sharing with support for native share api.

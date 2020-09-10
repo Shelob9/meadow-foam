@@ -53,6 +53,7 @@ export default Home;
 
 ## Next.js With MDX and TypeScript
 
+- https://sergiodxa.com/articles/next-tailwind
 - https://codeconqueror.com/blog/building-a-blog-with-next-js
 - `yarn create next-app --example with-mdx with-mdx-app`
 - Modify pageExtensions in withMdx config to include 'ts' and 'tsx'. Do this in next.config.js
