@@ -8,10 +8,10 @@ When I share my words about something on a social media platform, on a tool I us
 
 ## Main Features For v1
 
-- Clippings: Link sharing with support for native share api.
+- ~ Clippings: Link sharing with support for native share api.
 - Leaves: Private written notes with embeded clippings.
   - Probably not needed.
-- Bubbles: Git-backed [foam bubbles](https://foambubble.github.io/)
+- ~ Bubbles: Git-backed [foam bubbles](https://foambubble.github.io/)
   - Editor with clipping embeded.
 - Graph of relationship between all content.
 
@@ -40,22 +40,9 @@ Currently what is deployed is an API for two data types and that basic UI. The a
 
 ## Halloween
 
-The proper front-end client for Meadow. Displays leaves and bubbles. Includes markdown editor for bubbles.
+First useful front-end client for meadow.
 
-> [Source](https://github.com/shelob9/meadow-halloween)
->
-> [URL](https://halloween.joshpress.net) Not yet deployed.
-
-### How Halloween Works
-
-Uses:
-
-- [[next]] next.js
-- [[service-workers]]
-- [[editorJs]] editor.js
-- Theme UI
-- Github pages
-- [Next Auth](https://github.com/nextauthjs/next-auth)
+> See: [[meadow-halloween]]
 
 ## Foam
 
