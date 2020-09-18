@@ -1,6 +1,8 @@
-# What I Am Working On Now
+# Now
 
-## Current Interests
+## What I Am Working On Now
+
+### Current Interests
 
 - My main side project: [[meadow]] - Networked-mind app.
   - Currently tinkering with [[meadow-halloween]].
@@ -12,7 +14,7 @@
 - Plants
   - I am super into growing and propogating succulents, aloes and other small plants right now.
 
-## Saturday Drive
+### Saturday Drive
 
 At Saturday Drive, I do [[WordPress]], [[Laravel]] and [[React]] development
 
