@@ -1,6 +1,6 @@
 # Chai
 
-Testing [[javascript]] with Chai.
+Testing [[javascript]] with Chai. I use [jest][https://jestjs.io] most of the time.
 
 - [Cheetsheat](https://devhints.io/chai)
 - [Docs: Expect BDD-style](https://www.chaijs.com/api/bdd/)
