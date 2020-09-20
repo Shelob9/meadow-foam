@@ -51,3 +51,9 @@ Challenge is to ask with curiosity and ask self, "what's up? You said you wanted
 The book The War of Art is required reading. Has pages on resistance to doing your best work. Has a fascinating way of personifying resistance and presenting it as a kind of archetypal force. Personification to bring abstract problems into more intuitive realm.
 
 You can choose an object in your house, and with siencrity and give it special value and purpose, if you belive in it.
+
+A friend at work says her internal monologue is like something (her brain?) pulling words from a big cloud, not a voice.
+
+Create more and more notes of light in the brain graph for later and to share. [Example, collect and bank motivational videos for later](https://twitter.com/visakanv/status/1084014654156754945) Create virtuous cycle, like a video game cheat.
+
+https://medium.com/@josephparrish/the-rise-of-meaningwave-music-794139f2d3fe

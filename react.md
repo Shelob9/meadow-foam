@@ -16,3 +16,7 @@ const RenderPortal = ({domNode,children}){
 }
 
 ```
+
+## Testing
+
+- https://codesandbox.io/s/github/kentcdodds/react-testing-library-examples
