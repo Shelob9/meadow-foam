@@ -2,13 +2,14 @@
 
 Recently at [Saturday Drive](https://saturdaydrive.com) we migrated from self-hosted GitLab to Github. I worked on migrating the [[wordpress]] plugins to [[wordpress]] and helped with the [[laravel]] apps, which were easier.
 
-  Caldera Forms was already on Github, but not using Github actions. We set up actions for Caldera Forms first, to learn how, with the least other steps and then applied what we learned to Ninja Forms and other repos.
+Caldera Forms was already on Github, but not using Github actions. We set up actions for Caldera Forms first, to learn how, with the least other steps and then applied what we learned to Ninja Forms and other repos.
 
 In the post I'll share some of what we learned. A lot of how we figured this out was I did the first pass and then Nico made it actually work. So a lot of credit goes to him for that and figuring out the end to end testing parts, which are really cool.
 
 ## Other Examples
 
 - https://github.com/wp-cli/scaffold-command/pull/257#issuecomment-636308643
+- https://github.com/wp-cli/scaffold-command/blob/f9bad3dd7224d5684d950d31c486df70905e386f/templates/plugin-github.mustache
 
 ## Caldera Forms
 

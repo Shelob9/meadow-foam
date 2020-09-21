@@ -4,12 +4,14 @@ Networked second mind(s) app.
 
 ## Why
 
+When I share my words about something on a social media platform, on a tool I use at work, they are still my words. Also, they are the creation of so many people and systems that are beyond me. When I see people saying web3 should allow us to own the product of our own labor, I agree. I don't think this means monetizing ourseleves at a Fortnite-like level, as I don't want to optimize myself for the kind of engagment that leads to whatever the tokenized version of lots of in-app purchases. But I do want what I learn about what I do for a living and other things I enjoy thingking about, resarching an practicing to be accesible to me and others, especially those who contributed to my understanding of the subject.
+
 ## Main Features For v1
 
-- Clippings: Link sharing with support for native share api.
+- ~ Clippings: Link sharing with support for native share api.
 - Leaves: Private written notes with embeded clippings.
   - Probably not needed.
-- Bubbles: Git-backed [foam bubbles](https://foambubble.github.io/)
+- ~ Bubbles: Git-backed [foam bubbles](https://foambubble.github.io/)
   - Editor with clipping embeded.
 - Graph of relationship between all content.
 
@@ -38,22 +40,9 @@ Currently what is deployed is an API for two data types and that basic UI. The a
 
 ## Halloween
 
-The proper front-end client for Meadow. Displays leaves and bubbles. Includes markdown editor for bubbles.
+First useful front-end client for meadow.
 
-> [Source](https://github.com/shelob9/meadow-halloween)
->
-> [URL](https://halloween.joshpress.net) Not yet deployed.
-
-### How Halloween Works
-
-Uses:
-
-- [[next]] next.js
-- [[service-workers]]
-- [[editorJs]] editor.js
-- Theme UI
-- Github pages
-- [Next Auth](https://github.com/nextauthjs/next-auth)
+> See: [[meadow-halloween]]
 
 ## Foam
 
