@@ -80,6 +80,13 @@ The book The War of Art is required reading. Has pages on resistance to doing yo
 
 You can choose an object in your house, and with siencrity and give it special value and purpose, if you belive in it.
 
+<<<<<<< HEAD
+A friend at work says her internal monologue is like something (her brain?) pulling words from a big cloud, not a voice.
+
+Create more and more notes of light in the brain graph for later and to share. [Example, collect and bank motivational videos for later](https://twitter.com/visakanv/status/1084014654156754945) Create virtuous cycle, like a video game cheat.
+
+https://medium.com/@josephparrish/the-rise-of-meaningwave-music-794139f2d3fe
+=======
 ## Harnessing ADD and ADHD
 
 Wasn't child running around, running around is in my head. Was late to understand that as ADD. Was a bad student, not beacuse bad at learning, but beacuse wanted to learn at his own pace.
@@ -126,3 +133,4 @@ It's hard to care about health in the abstract. But in context, do things to all
   - Happiness is contextual, you can't be be happy all the time. Trying to behappy all the time prevents growth.
   - Be navigated by what is exciting.
   - Feelings and emotions are best understood socially.
+>>>>>>> 9261c78f68c2b76d74dcb50ef6a5fe446f86dabe
