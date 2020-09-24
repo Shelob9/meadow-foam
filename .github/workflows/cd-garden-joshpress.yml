@@ -1,0 +1,17 @@
+# Runs on push to master
+## Manages content deployment for garden.joshpress.net
+
+name: Meadow Halloween [CD]
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Vercel Deploy
+      uses: wei/curl@master
+      with:
+        args: https://api.vercel.com/v1/integrations/deploy/QmQ5kC4ytor4XmQq9KQWho1HZe2aJDsRKe23mQkmYgjW2K/86IwYLD3fl
