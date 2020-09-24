@@ -1,4 +1,4 @@
-# NEw Package Manager
+# New Package Manager
 
 What is there was a JavaScript and PHP package manager that was designed to manage dependencies, script running, etc for BOTH.
 
@@ -11,3 +11,4 @@ What is there was a JavaScript and PHP package manager that was designed to mana
   - The dev dependencies clash with yours.
   - It would be better to run application's test with no-dev/dist version of the dependency anyway.
 - No, recursive install of dependencies in composer makes WordPress plugins using composer in a full site managed by composer a mess.
+- composer.lock confuses me.

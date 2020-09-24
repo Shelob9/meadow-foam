@@ -1,6 +1,7 @@
 # Laravel Queues
 
 - [Learn Laravel Queues](https://learn-laravel-queues.com) - 5 stars! Buy This.
+- [Serverless Laravel](https://serverlesslaravelcourse.com/) - 5 stars! Buy this if using Vapor.
 
 ## Serial Vs Parallel Requests With Laravel Queues
 

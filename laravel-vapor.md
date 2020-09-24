@@ -53,6 +53,17 @@ Find this sticky note.
 - "warn" - avoid 2s post-deploy delay.
   - Bring X containers online before deployment and rewarmed every 5 minutes.
   - Warming, not too expensive. Polling warms for 40 containers would be ~\$1.
-- Concurrency
-  - Warming can slow requests happening during warming. Concurrency keeps X containers always online.
+
+## Concurrency
+
+Concurrency is how many Lamdas can exist at once. Each web requests gets one of Lamdas, with the memory set.
+
+- https://blog.laravel.com/vapor-using-a-separate-lambda-function-for-queues
+- Three Lamdas: web requests,cli,queue.
+  - Each has `*-concurrency`, `*-memory`, `*-timeout`
+  - Adding `*-memory` ads more processing
+- Warming can slow requests happening during warming. Concurrency keeps X containers always online.
   - Could mean paying to keep things online all the, or could avoid paying for warming. Can save a lot of money, if enough consitent traffic.
+  - By default 1000 is default Lamda concurrency.
+    - Limit cuncurrency in Vapor to limit costs.
+    - AWS has built in protections.
