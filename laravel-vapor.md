@@ -18,9 +18,13 @@ Find this sticky note.
     - Risk is high traffic breaking DB
       - Limit queue concurrency.
       - Add Redis cache level.
+    - You can set the scaling of storage in AWS console to auto.
 - Scaling/ Failover
   - A failover database comes online if production db goes down.
     - Failover takes ~60 or more.
+    - Failover DB is recommend, doubles database cost.
+    - Also allows for zero downtime db Scaling.
+      - Vapor will bring failover up, scale up primary, switch back to primary, then scale up failover.
 
 ## Queues
 
