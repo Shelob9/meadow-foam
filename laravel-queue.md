@@ -2,11 +2,12 @@
 
 - [Learn Laravel Queues](https://learn-laravel-queues.com) - 5 stars! Buy This.
 - [Serverless Laravel](https://serverlesslaravelcourse.com/) - 5 stars! Buy this if using Vapor.
+- [Documentation](https://laravel.com/docs/8.x/queues)
 - [[Laravel]]
 
 ## Serial Vs Parallel Requests With Laravel Queues
 
-A chain of jobs is executed in series, one after another. Batching can be used to run jobs in paralled. In both cases, you can call a funcion when its done or when an error is caught.
+A chain of jobs is executed in series, one after another. Batching can be used to run jobs in paralled. In both cases, you can call a function when the chain or bacth is done or when an error is caught.
 
 On Vapor, queues are not first in first out -- FIDO -- and jobs can run more then once. So whether jobs are in chain or dispatched in a loop, they will run out of order.
 
