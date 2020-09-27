@@ -8,6 +8,9 @@ When I share my words about something on a social media platform, on a tool I us
 
 ## Main Features For v1
 
+A "~" indicates a "must have" in the [ShapeUp](https://basecamp.com/shapeup) methodology
+
+
 - ~ Clippings: Link sharing with support for native share api.
 - Leaves: Private written notes with embeded clippings.
   - Probably not needed.
@@ -15,14 +18,14 @@ When I share my words about something on a social media platform, on a tool I us
   - Editor with clipping embeded.
 - Graph of relationship between all content.
 
-### Othe Early Ideas
+### Other Early Ideas
 
 - Replace PWA with Electron app.
 - [[wordpress]] plugin that makes clippings and bubbles reusable blocks.
 
-## Main Application
+## API Server
 
-> [Source](https://github.com/shelob9/meadow-halloween)
+> [Source](https://github.com/shelob9/meadow)
 >
 > [URL](https://meadow.joshpress.net)
 
@@ -30,7 +33,7 @@ When I share my words about something on a social media platform, on a tool I us
 
 - [[laravel]]
 - Deployed on [Render](https://render.com)
-- VueJS front-end
+- VueJS front-end (Not needed, will go away)
 
 After trying for awhile to over-engieer this app using Node on the backend, I decided to simplify things. I am using Laravel for CRUD, REST API and authentication.
 
