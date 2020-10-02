@@ -20,7 +20,7 @@ These are in progress notes. I write these using VSCode using [Foam](https://foa
 
 > [Source](https://github.com/shelob9/meadow-halloween)
 >
-> [URL](https://halloween.joshpress.net) Not yet deployed.
+> [URL](https://garden.joshpress.net).
 
 Halloween uses [[next]] for the front-end client and additional API routes. I used [[tailwind]] css. There is a login page that allows login using Githun -- it only works if you authenticate as me, for now. The auth system was built using the most excellent [Next Auth](https://github.com/nextauthjs/next-auth).
 
@@ -34,3 +34,8 @@ Halloween uses [[next]] for the front-end client and additional API routes. I us
   - Content PR submissions
   - Contributor visualization
 - Graph of relationships between contents.
+- For logged in user, Twitter timeline and favorites with clip button
+- Button to create a PR to edit a bubble.
+- Button to fork a bubble into your own bubble.
+
+
