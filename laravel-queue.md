@@ -141,7 +141,7 @@ class SomeTests exteds TestCase {
         Queue::fake();
         $this->artisan('command that chaines');
         //Assert job was pushed one times
-        Queue::assertPushed(WhateverJob::class,1);
+            (WhateverJob::class,1);
     }
 }
 ```
