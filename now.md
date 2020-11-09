@@ -8,6 +8,8 @@ I'm a nerd for this stuff, and spend a lot of time reading about how we think an
 
 ### Current Interests
 
+https://twitter.com/Josh412/status/1325458511137017867
+
 - My main side project: [[meadow]] - Mutli-mind digital garden app.
   - Currently tinkering with a social publishing game: [[meadow-halloween]].
 - I am super curious about peer 2 peer internet. I am currently especially interested in Distrubuted Finance.
