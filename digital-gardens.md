@@ -25,6 +25,9 @@ There are several digital garden [[gatsby]] themes that can be used to create si
 -  [Gatsby Theme Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden)
 - [Theme Andy](https://github.com/aravindballa/gatsby-theme-andy)
   - Uses theme-ui
+- [Gatsby Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden)
+ - Notes from roam
+ - notes from markdown
 
 ## Wikis
 
