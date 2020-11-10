@@ -9,7 +9,7 @@ I've always been more interested in how things work then using them as they are 
 
 When I discovered HTML as a kid, a big part of why I was so excited and fasinated by was beacuse it was extensible and universal. It could be made to work for different types of people. When I discovered I could play with open source content managment systems (CMS) like WordPress and Wikipedia, I felt the same way.
 
-This bubble is about different types of CMS, how they are evolving to be more graph-like and why that's good if personal puiblishing is trending more towards [[digital-gardens]].
+This bubble is about different types of CMS, how they are evolving to be more graph-like and why that's good if personal publishing is trending more towards [[digital-gardens]].
 
 ## Useful Generalizations About CMSes
 
@@ -19,7 +19,7 @@ Traditionally, we categorize "website building software" into two genres -- blog
 
   In the second category, wikis, authorship is collective and relationships between content emerge through bi-directional linking. WordPress and similar site builders may have discussion as a feature in comments or forums, but it's general clear who wrote what.
   
-  Wikipedia uses a lot of [transclusion](https://en.wikipedia.org/wiki/Help:Transclusion) a feature that allows content to be embeded transperantly in multiple locations.
+  Wikipedia uses a lot of [transclusion](https://en.wikipedia.org/wiki/Help:Transclusion) a feature of wikis that allows content to be embeded transperantly in multiple locations.
 
   In contrast to transclusion, blogs and page builders tend to make the boundries between a post or page's content and embeded sources obvious. Embeded tweets, YouTube videos or even use of the HTML blockquote tag are generally styled a part from the content. It is common that embeded content is loaded by the browser in an iFrame, which sandboxes that content from the rest of the page.
 
@@ -33,11 +33,12 @@ This shift is a gradient in difference from traditional relational databases and
 
 Social networks don't fit into this categorization. Neither does Roam or [[Foam]], sort of. Roam is a single author knowledge graph with wiki-style links that structure emerges from. It's both really. Roam is a working on multiplayer. That and the #RoamCult ecosystem make it into more of a network.
 
-WordPress -- WordPress.com and the open source ecosystem -- don't really fit that distinction either. Sites are optionally federated using Jetpack. Reusable blocks add wiki-style transclusion a default feature of the software.
+WordPress -- WordPress.com and the open source ecosystem -- don't really fit that distinction either. Sites are optionally federated using Jetpack. Reusable blocks introduced in WordPress 5.0 made wiki-style transclusion a default feature of the software.
 
 ## Everything Is A Graph Anyway
 
 > [Your work, no matter what you do, will take time. If you know what your goals are, you can start the process now and patiently guide it to where it needs to go. Give them space to grow, or create space later. In order to flourish, you need to allow room to move into. Or, prepare a move once they’ve outgrown the space you planned. Track what matters and do something with it](https://josepha.blog/2020/09/09/gardens-are-just-zoos-for-plants-my-sabbatical-in-the-garden/)
+>   - [Josepha Haden](https://josepha.blog/)
 
 I spend a lot of time thinking about the wisdom of trees and the small plants around me. They grow in intelligent ways. Turning towards the sun. I tend to a decent amount of house plants -- I've had that kind of pandemic -- and they are great reminders that good design isn't about control, it's about what possibilities you create or make less probable. Also the danger of drastic action.
 
@@ -67,7 +68,7 @@ Using wikis for multi-author, pseudonymous work on highly subjective content isn
 >
 > Looks like a paradox, doesn’t it?
 >
-> But Luhmann gave us a technique to handle these. He called it “unfolding a paradox”.2 You take a step back and make another distinction.](https://zettelkasten.de/posts/luhmann-folgezettel-truth/)
+> But Luhmann gave us a technique to handle these. He called it “unfolding a paradox”. You take a step back and make another distinction.](https://zettelkasten.de/posts/luhmann-folgezettel-truth/)
 
 [[digital-gardens]] seam to be single player, for the most part. But, many are hosted on Github, so anyone can suggest an edit. I love the idea of git-based content creation. It's not open edit, but it's open to editting. It doesn't erase authorship, but it obscures it.
 
