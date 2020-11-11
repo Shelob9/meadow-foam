@@ -31,6 +31,13 @@ The first is [Theme Andy](https://github.com/aravindballa/gatsby-theme-andy). Th
 
 [Gatsby Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden) has a similar look -- [check out this demo](https://mathieudutour.github.io/gatsby-digital-garden/) -- and is a bit more involved. It supports double bracket and parenthesis links, as well as sourcing content from Roam. I appreciate that the project is developed as a monorepo and the different packages can be used independently.
 
+To create a site with Gatsby Digital Garden
+
+```sh
+gatsby new my-digital-garden https://github.com/mathieudutour/gatsby-starter-digital-garden
+```
+
+
 ### Wikis
 
  -[Using TiddlyWiki to create a digital garden](https://learnawesome.org/digitalgardensetup)
