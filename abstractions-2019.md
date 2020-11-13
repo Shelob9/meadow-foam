@@ -85,7 +85,7 @@ Social engineering: An act that influences a person to take an action that may o
 
 Codemash seams like a cool conference.
 
-Observe your team from an outside perspective.
+Observe your team from an outside perspective:
 • Perm or temp?
 • how long been together?
 • existencing communication channels.
@@ -96,7 +96,6 @@ Observe your team from an outside perspective.
 • how frequently do senior members pair together with more junior members.
 • to what extent do team members use "we" vs "I"?
 
-
 What do they value????
 
 Make action plan and start with quick wins. Don't go for the flags right away. Small steps.
@@ -106,12 +105,8 @@ Observe how and why team members respond to change.
 Team members-
 What do they value? What in it for them? Why should they do this?
 
-
-ADKR Model for team managment.
-Awareness, desire, knowledge, ability, reinforcement.
-Is pushback for change caused by a lack of any of those? Find which one and address those.
+ADKR Model for team managment: Awareness, desire, knowledge, ability, reinforcement. Is pushback for change caused by a lack of any of those? Find which one and address those.
 
 Resolve conflict with a solution and a value that are based on observation.
 
 Be assertive not agressive, make your elevator pitch, follow up with relevant examples and metaphors.
-

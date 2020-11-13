@@ -20,7 +20,7 @@ Onces cells become a part of the symbiosis, they loose ability to discrimenate t
 - Krakauer on individuality
   - https://link.springer.com/article/10.1007%2Fs12064-020-00313-7
   - https://www.santafe.edu/news-center/news/ulam-krakauer-cognitive-ubiquity 
-- Collective intelligence suggests collective stupity. Imagine a culture that keeps doign the equivelent of spinning one face of a rubik's cube with expectatin that will solve the whole cube. That culture is stupid.
+- Collective intelligence suggests collective stupidity. Imagine a culture that keeps doing the equivalent of spinning one face of a rubik's cube with expecting that it will solve the whole cube. That culture is stupid.
 - https://info.vtaiwan.tw/
 - https://pol.is/home
 - http://nautil.us/issue/23/dominoes/ingenious-david-krakauer

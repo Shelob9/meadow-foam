@@ -9,6 +9,9 @@
 - [Pattern Language: Patterns by Category](https://groupworksdeck.org/patterns_by_category)
 - [Games to play with your community](https://groupworksdeck.org/patterns_by_category)
 - [Stay Connected! Games to Play Online with Friends or Family](https://gemhlab.com/blog/gaming/games-you-can-play-while-quarantined/)
+- [The Profound Power Of An Authentic Apology](https://www.ted.com/talks/eve_ensler_the_profound_power_of_an_authentic_apology?language=en)
+- [Suddenly My Body](https://www.ted.com/talks/eve_ensler_suddenly_my_body?language=en)
+- [Happiness Around Body And Soul](https://www.ted.com/talks/eve_ensler_happiness_in_body_and_soul/transcript?language=en)
 
 ## Your Growth Is A Lagging Indicator Of Your Community
 
@@ -26,12 +29,12 @@
 - Can build community around everyone feeling like a misfit, but that doesn't mean you have consensus about what to do about that/ with that energy. 
 - Healthy communities value and respect the autonomy of members. 
 - Beloning is  human need, facists understand this in a way neo-liberals do not.
-- Deradicalization is about personal relationships. People don't leave cults after an argument, they leave after engaging with people they care with and slowly reframing.
-- The hook for cultists and .. is framing it with your choice. Sold autonomy, must follow. Smoking is an appeal to self-sovereignty.
-- Moana is an example of story of learning parents are lying to protect innocence so she has to go on journey of self-sovereign experience.
+  - Deradicalization is about personal relationships. People don't leave cults after an argument, they leave after engaging with people they care with and slowly reframing.
+  - The hook for cultists and .. is framing it with your choice. Sold autonomy, must follow. Smoking is an appeal to self-sovereignty.
+  - Moana is an example of story of learning parents are lying to protect innocence so she has to go on journey of self-sovereign experience.
 - 80% of success of group is about founders, what there values are and intent. Knowing how they will manage disagreements and conflict in advance is key. Small communities may be able to get by on founder values, but doesn't scale.
   - If people care about new community, some memembers not founder will start take steps to maintain it. Others who care about community will see this and will have a recprocial need to do the same. That will shape community for good or bad, so choose first members wisely.
   - "The larger the group the more universal the axioms of the community need to be. AKA the more foundational the story".
-  - Being a leader that pays the bills that doesn't tell the story is abdicating leadership. This isn't incompatible with listening to everyone and letting everyone speak and letting others lead.
-  - [The mental tool of inversion](https://fs.blog/2013/10/inversion/) If it's easier to not be stupid than to be a genius, then with community think about what's the way not to be bad for community in any situation.
-
+- Being a leader that pays the bills that doesn't tell the story is abdicating leadership. This isn't incompatible with listening to everyone and letting everyone speak and letting others lead.
+- [The mental tool of inversion](https://fs.blog/2013/10/inversion/) If it's easier to not be stupid than to be a genius, then with community think about what's the way not to be bad for community in any situation.
+- Retribution does not preserve your own soul. Do not get contaminated!
