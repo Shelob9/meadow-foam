@@ -11,7 +11,7 @@ Status: functional, single player prototype.
 ### BirdDog: Problems
 
 - People want to use Twitter to send long messages. They tend to solve this with a screen shot of notes, which is clunky and not accessible.
-  - By "not accesible" I mean the lack of alt tag on image means the image can't be read with a screen reader.
+  - By "not accessible" I mean the lack of alt tag on image means the image can't be read with a screen reader.
 - Screenshots of tweets are useful for sharing tweets without worrying about deletes, also not accesible.
 
 ### BirdDog: Solutions

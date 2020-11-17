@@ -37,6 +37,7 @@ To create a site with Gatsby Digital Garden
 gatsby new my-digital-garden https://github.com/mathieudutour/gatsby-starter-digital-garden
 ```
 
+Also: https://github.com/aengusmcmillin/gatsby-theme-brain
 
 ### Wikis
 
