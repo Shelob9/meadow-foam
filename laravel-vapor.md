@@ -62,6 +62,8 @@ Find this sticky note.
 - "warn" - avoid 2s post-deploy delay.
   - Bring X containers online before deployment and rewarmed every 5 minutes.
   - Warming, not too expensive. Polling warms for 40 containers would be ~\$1.
+- Vapor "secrets" are for big environment variables. Acccesed using the `env()` helper function.
+  - Environment variables can be seen in plain text in vapor UI. Secrets can not.
 
 ## Concurrency
 

@@ -26,9 +26,7 @@ A networked second mind(s) game. Not sure what that means yet. This is the every
 - [[meadow-halloween]]
 - [[meadow-birddog]]
 - [[meadow]]
-
-## Git CMS/ Digital Garden Builder
-
+  
 ## Imaginary Shapes
 
 - Status: Completed.
@@ -58,8 +56,9 @@ A WordPress plugin for using WordPress site as a headless CMS.
   
 ## Git or Markdown CMS
 
-> Status: Functional, single player protoype.
-
+- Status: Working prototype. Not sure if working on this.
+- [Source](https://github.com/Shelob9/markdown-cms)
+  
 A very simple CMS, using Github as a back-end. Real goal is to be able to build a no code [[digital-gardens]] builder and maybe other apps.
 
 - [[markdown-api]]
