@@ -32,7 +32,7 @@ A networked second mind(s) game. Not sure what that means yet. This is the every
 - Status: Completed.
 - [Application](https://imaginaryshapes.com/)
 
-I started using an [[eisenhower-matrix]] when I ran a buiness and was paralyzed by deciding what to do, when there was to much to do. I built a modified matrix that adds fun as a metric to figure out what to do next.
+I started using an [[eisenhower-matrix]] when I ran a business and was paralyzed by deciding what to do, when there was to much to do. I built a modified matrix that adds fun as a metric to figure out what to do next.
 
 ### Imaginary Shapes: Problems
 
